@@ -6,4 +6,4 @@ Firebase saves each text message as well as metadata. The messages are parsed an
 
 See the demo below!
 
-![react-firebase-app](https://www.veed.io/view/f8309f7f-19cc-4ff9-8b30-8200b9c7044c/showcase)
+![react-firebase-app](https://youtu.be/qqvedrWOMNM)
